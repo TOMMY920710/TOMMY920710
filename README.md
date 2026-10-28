@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Tomas </h1>
 <h3 align="center">A passionate Python and Front-End developer from Argentina</h3>
 
 - 🔭 I’m currently working as a **Python and Data Analysis Instructor**
