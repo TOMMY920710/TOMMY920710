@@ -12,7 +12,7 @@
 - ⚡ What I like to do: **I really like reading, playing guitar, watching movies... and coding, of course!**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/nombre-de-tu-imagen.png" alt="Pixel Art Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/TOMMY920710/TOMMY920710/refs/heads/main/Gemini_Generated_Image_vrjt9mvrjt9mvrjt.jfif" alt="Pixel Art Banner" width="60%">
 </p>
 
 <h3 align="center">Connect with me:</h3>
